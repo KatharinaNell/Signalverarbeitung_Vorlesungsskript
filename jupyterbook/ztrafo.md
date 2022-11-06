@@ -379,7 +379,7 @@ verwendet werden.
 
 import pandas
 
-df = pandas.DataFrame(data = {'Zeitbereich 𝑦(𝑘)':["δ(k)", "γk", "kγ(k)", "e−αkγ(k)", "αkγ(k)", "cos(ω0k)"], 
+df = pandas.DataFrame(data = {'Zeitbereich 𝑦(𝑘)':["δ(k)", "γ(k)", "kγ(k)", "e−αkγ(k)", "αkγ(k)", "cos(ω0k)"], 
                               'x(k)':["1", "(z/z-1) = 1/1-z−1 ", "1", "1", "1", "1"],
                               'x(k-1)':["∀z)", " |z| > 1", " |z| > 1", " |z| > e−α", "|z| > α", "|z| > 1"]})
 #df = df.set_index('k')
