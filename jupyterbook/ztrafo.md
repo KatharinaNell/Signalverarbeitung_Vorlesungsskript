@@ -201,7 +201,7 @@ $$
 $$ (eq:BspKausaleFolge)
 
 (siehe {numref}`Abbildung %s <fig:zFolgenPic>` a), sie entspricht dem 
-Sparbuchbeispiel mit einem Startkapital von 0{,}5 und 50 % Kontokosten, 
+Sparbuchbeispiel mit einem Startkapital von 0,5 und 50 % Kontokosten, 
 also einer ziemlich schlechten Geldanlage), so ergibt sich die 
 z-Transformierte als
 
