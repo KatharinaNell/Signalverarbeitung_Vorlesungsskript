@@ -733,7 +733,7 @@ mit
 
 $$
 \begin{aligned}
-A &=& (z-0{,}9e^{j\frac{\pi}{10}})\widetilde{H}(z)\Bigg|_{z = 0{,}9e^{j\frac{\pi}{10}}}\\
+A &=& (z-0{,}9e^{j\frac{\pi}{10}})H(z)\Bigg|_{z = 0{,}9e^{j\frac{\pi}{10}}}\\
     & = & \frac{z}{z-0{,}9e^{-j\frac{\pi}{10}}}\Bigg|_{z = 0{,}9e^{j\frac{\pi}{10}}}\\
     & = & \frac{0{,}9e^{j\frac{\pi}{10}}}{0{,}9e^{j\frac{\pi}{10}}-0{,}9e^{-j\frac{\pi}{10}}}\\
     & = & -j\frac{e^{j\frac{\pi}{10}}}{2\sin \frac{\pi}{10}}\end{aligned}
