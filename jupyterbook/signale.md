@@ -298,6 +298,8 @@ repräsentieren die analoge Funktion (b,c).
 Ist die Frequenz des Sinus genau halb so hoch kann die Funktion gar nicht mehr erkannt werden, da sich eine Konstante ergibt (d).  
 Erhöht man die Frequenz des Sinus noch weiter, entsprechen die Abtastwerte genau den Abtastwerten einer niedrigeren Frequenz, z.B. führt in (f) die Verdoppelung ebenfalls auf eine Nullfolge. Betrachtet man nur die Folge der Abtastwerte (gut in (e) zu sehen) und nicht die Zeitpunkte des Auftretens (diese Information ist nach einer Abtastung nicht mehr vorhanden), so kommt es zu Doppeldeutigkeiten. Dieser Effekt wird **Aliasing** genannt.
 
+
+
 ```{code-cell} ipython3
 :tags: [hide-input, remove-output]
 :load: code/signale/abtastung2.py
