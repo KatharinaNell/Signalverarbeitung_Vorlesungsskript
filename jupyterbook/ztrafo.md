@@ -63,7 +63,7 @@ y(k) = c y(k-1) + S \delta(k)~~~.
 $$ (eq:ZinsRekursionMitc)
 
 Diese Form wird jetzt auf beiden Seiten mit der Summe $\sum_{k =
--\infty}^{\infty}z^{-k}$ multipliziert. Ein Schritt der mathematisch
+-\infty}^{\infty}z^{-k}$ multipliziert. Ein Schritt, der mathematisch
 erlaubt ist, da er auf beiden Seiten des Gleichungssystems durchgeführt
 wird.
 
@@ -164,7 +164,7 @@ Summe in Gl. {eq}`eq:Def:Ztrafo2` kleiner unendlich ist. Dies ist für alle
 endlichen Folgen gegeben, wenn keiner der Folgenwerte unendlich ist. Bei
 unendlichen Folgen ist dies nicht immer gewährleistet und hängt auch
 direkt von $z$ ab. Deshalb gehört zu einer vollständigen
-Beschreibung der z-Transformation auch immer die Bereichsangabe von $z$
+Beschreibung der z-Transformation auch immer die Bereichsangabe von $z$,
 in der die Summe konvergiert. Man spricht deshalb vom sogenannten
 Konvergenzgebiet *Region of Convergence*. Zur Beschreibung des
 Konvergenzgebietes reichen die Angaben der Radien $r = |z|$ der
@@ -245,7 +245,7 @@ $$
     x(k) = -0{,}5^k \gamma(-k-1) \qquad \text{für} \qquad k < 0
 $$ 
 
-betrachtet werden (siehe {numref}`Abbildung %s <fig:zFolgenPic>` b). Berechnet man die z-Transformierte ergibt sich mit einer Variablensubstitution $k = -m$ 
+betrachtet werden (siehe {numref}`Abbildung %s <fig:zFolgenPic>` b). Berechnet man die z-Transformierte, ergibt sich mit einer Variablensubstitution $k = -m$ 
 
 $$
 \begin{aligned}
@@ -295,7 +295,7 @@ $|z| < 0{,}5$.
 ## Rechenregeln
 
 Die z-Transformation erleichtert das Rechnen von Differenzengleichungen.
-Einige häufig verwendete Rechenregeln und
+Einige, häufig verwendete Rechenregeln und
 Korrespondenzen sind im Folgenden aufgeführt.
 
 ### Linearität
@@ -844,7 +844,7 @@ Zur Lösung nehmen wir zunächst eine Fallunterscheidung vor:
     Wurzel ziehen kann und sich somit die Vorzeichen umdrehen.
     $z=-\frac{a_{1}}{2} \pm j \sqrt{a_{2}-\frac{a_{1}^{2}}{4}}$~~~.
     
-Berechnet man den Betrag so ergibt sich 
+Berechnet man den Betrag, so ergibt sich 
     
 $$
     \begin{aligned}
