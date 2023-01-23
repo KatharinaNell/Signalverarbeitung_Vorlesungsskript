@@ -273,7 +273,7 @@ Eine Interpretation (die Nutzung vom FilterDeMystifier hilft hier sehr, siehe {n
 Zur Frequenzanalyse ist bisher nur die DTFT bekannt. Aber diese
 Transformation kann nicht auf einem Computer umgesetzt werden, da das
 resultierende Spektrum nicht diskret ist. Außerdem benötigt man
-unendlich viele Eingangswerte um das Spektrum zu berechnen. Deshalb wird
+unendlich viele Eingangswerte, um das Spektrum zu berechnen. Deshalb wird
 in einem ersten Schritt die Anzahl der genutzten Abtastwerte auf $N$
 beschränkt. Man könnte dies auch so interpretieren, dass die unendliche
 Folge des Signals mit einer Rechteckfolge der Höhe eins und der Länge N
