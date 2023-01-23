@@ -805,6 +805,7 @@ bis {numref}`Abbildung %s <fig:KaiserWindow-a4>`)
 Zeitliche und spektrale Eigenschaft des Rechteckfensters
 ```
 
+Achsenbeschriftung
 +++
 
 Als Ursache für das Verschmieren im Frequenzbereich wurde die Faltung
