@@ -79,7 +79,7 @@ Die Kanalanzahl ist ebenfalls eine Möglichkeit ein System zu
 beschreiben und zu klassifizieren, wobei als Besonderheit zu
 beachten ist, dass Systeme auch die Kanalanzahl verändern können.
 So kann z.B. ein Monosignal (Gesang) auf zwei Kanäle aufgespalten
-werden um so eine Positionierung in einem Stereosignal zu
+werden, um so eine Positionierung in einem Stereosignal zu
 ermöglichen.
 
 +++
@@ -199,8 +199,8 @@ verringern.
 
 Bei der Rekursion haben wir gesehen, dass durch Speicherung der
 Eingangsfolge und Speicherung des letzten Ausgangswertes sehr einfach
-bestimmte Systeme realisiert werden können. Systeme die Speicherelemente
-beinhalten werden gedächtnisbehaftet genannt. Systeme bei denen der
+bestimmte Systeme realisiert werden können. Systeme, die Speicherelemente
+beinhalten, werden gedächtnisbehaftet genannt. Systeme, bei denen der
 Ausgang nur von den Eingangssignalen, aber nicht von dem vorherigen
 Zustand abhängig ist, sind gedächtnislos. Ein Beispiel für ein
 gedächtnisloses System ist die Funktion $y(k) = x^2(k)$.
@@ -223,7 +223,7 @@ Gedächtnislänge unendlich.
 
 Die Kausalität ist für Systeme eine sehr wichtige Eigenschaft. Nur bei
 kausalen Systemen ist die Ursache (Eingangssignal) zeitlich immer vor
-der Wirkung (Ausgangssignal). Anders ausgedrückt das Ausgangssignal darf
+der Wirkung (Ausgangssignal). Anders ausgedrückt: das Ausgangssignal darf
 nur von dem jetztigen Eingang und vorherigen Eingangswerten abhängen,
 damit ein kausales System vorliegt. Mathematisch kann dies durch
 
@@ -235,7 +235,7 @@ ausgedrückt werden.
 
 ### Stabilität
 
-Eine andere sehr wichtige Eigenschaft für Systeme ist ihre Stabilität.
+Eine andere, sehr wichtige Eigenschaft für Systeme ist ihre Stabilität.
 Stabile Systeme zeichnen sich dadurch aus, dass sie auf ein begrenztes
 Eingangssignal mit einem begrenzten Ausgangssignal reagieren
 (BIBO-Stabilität, *Bounded Input Bounded Output*). Mathematisch muss
@@ -252,7 +252,7 @@ Sind die folgenden Systeme stabil?
 
 -   $y(k) = x^2(k)$:\
     Das System ist stabil, da alle möglichen Eingangswerte für x(k), die
-    kleiner als $|\infty|$ sind, wieder auf Werte führen die kleiner als
+    kleiner als $|\infty|$ sind, wieder auf Werte führen, die kleiner als
     $\infty$ sind
 
 -   $y(k) = \log(x(k))$:\
@@ -265,7 +265,7 @@ Sind die folgenden Systeme stabil?
 Eine besondere Klasse an Systemen stellen die linearen, zeitinvarianten
 (LTI, *Linear and Time-Invariant*) Systeme dar. Die beiden Begriffe
 Linearität und Zeitinvarianz werden im weiteren als Systemeigenschaften
-genauer beschrieben
+genauer beschrieben.
 
 ### Linearität
 
@@ -370,7 +370,7 @@ y(k) &= &  x_\text{mix}^2 (k)\\
 $$
 
 Die beiden Ausgangssignale sind nicht identisch. Dieses System ist also
-nichtlinear.
+nicht linear.
 ```
 
 ### Zeitinvarianz
