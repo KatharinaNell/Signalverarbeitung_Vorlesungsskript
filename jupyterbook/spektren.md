@@ -392,7 +392,7 @@ $$
     H^{W}(e^{j \Omega}) & = & \frac{1-e^{-j\Omega N}}{1- e^{-j\Omega}}\\
     & = & \frac{e^{-j\Omega N/2} \overbrace{(e^{j\Omega N/2}- e^{-j\Omega N/2})}^{2j\sin(\Omega N/2)}}
     {e^{-j \Omega/2}\underbrace{(e^{j \Omega/2}- e^{-j\Omega/2})}_{2j\sin(\Omega/2)}}\\
-    & = & e^{-j(N-1)\Omega/2}\frac{\sin\left(N \Omega/2
+    & = & e^{-j(N-1)\Omega/2}\frac{\sin\left(N \Omega/2 Punkt
 \right)}{\sin\left(\Omega/2 \right)}\end{aligned}
 $$ 
 
