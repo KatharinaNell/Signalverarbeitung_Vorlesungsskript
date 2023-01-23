@@ -336,7 +336,7 @@ Wir haben, um von der exakten Darstellung des Spektrums mittels DTFT auf
 die computerlösbare DFT zu kommen, zwei Veränderungen vorgenommen. Und natürlich spiegeln sich diese Veränderungen auch im Ergebnis wieder. Wir müssen also versuchen, die Veränderungen zu analysieren, um sicher zu sein, dass die DFT zumindest eine Näherung der DTFT ist.
 
 Zunächst ist es interessant die vorgenommene Diskretisierung im
-Frequezbereich zu untersuchen. Im Grunde genommen haben wir das Spektrum
+Frequezbereich zu untersuche,n. Im Grunde genommen haben wir das Spektrum
 abgetastet. Die Konsequenz der Abtastung kennen wir bereits aus der
 normalen Abtastung im Zeitbereich. Es kommt zu einer periodischen
 Wiederholung des Spektrums. Die Abtastung im Frequenzbereich führt zu
