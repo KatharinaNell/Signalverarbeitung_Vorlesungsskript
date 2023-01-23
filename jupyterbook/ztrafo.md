@@ -678,10 +678,10 @@ aufklingende, also mit der Zeit stärker werdende Schwingung.
 Dies ist in der {numref}`Abbildung %s <fig:PolLagen>` nochmals verdeutlicht. Die Pollage a) ist
 ein Pol auf der reellen Achse mit einem Radius von $r = 0{,}96$ (die eingezeichneten Pollagen sind zur Verdeutlichung skaliert). Die
 dazugehörige Schwingung ist eine abklingende Exponentialfunktion ohne
-Schwingungsanteil. Ist der Radius größer eins (b) $r= 1{,}01$) ergibt sich
+Schwingungsanteil. Ist der Radius größer eins (b) $r= 1{,}01$, ergibt sich
 eine aufklingende Exponentialfunktion. Verschiebt man den Pol auf dem
 Radius $r=0{,}96$ auf einen Polwinkel $\varphi = \pi/10$, so ergibt sich eine
-exponentiell abklingende Schwingung (siehe c)). Bei einem Radius größer
+exponentiell abklingende Schwingung (siehe c). Bei einem Radius größer
 eins, eine aufklingende Schwingung (d). Die Drehung ist bei
 $\varphi = 3\pi / 4$ kaum noch zu erkennen (e), während die Frequenz
 $\varphi = \pi$ erneut zu einer reellen Folge mit wechselndem
@@ -772,7 +772,7 @@ Beispiel der Impulsantwort eines Systems mit konjugiert komplexen Polpaar.
 
 ## Stabilität
 
-Mit den Erklärungen für {numref}`Abbildung %s <fig:PolLagen>` ist die Frage nach einem Stabilitätstest für kausale LTI-Systeme recht einfach zu beantworten. Da alle Systeme mit Polradien größer eins aufklingende Schwingungen erzeugen sind die dazugehörigen Impulsantworten nicht endlich. Auf einen endlichen Impuls reagiert das System mit einer unendlichen Ausgangsgröße. Damit ist die BIBO-Bedingung nicht mehr erfüllt.
+Mit den Erklärungen für {numref}`Abbildung %s <fig:PolLagen>` ist die Frage nach einem Stabilitätstest für kausale LTI-Systeme recht einfach zu beantworten. Da alle Systeme mit Polradien größer eins aufklingende Schwingungen erzeugen, sind die dazugehörigen Impulsantworten nicht endlich. Auf einen endlichen Impuls reagiert das System mit einer unendlichen Ausgangsgröße. Damit ist die BIBO-Bedingung nicht mehr erfüllt.
 
 ```{admonition} Wichtig
 :class: attention
@@ -785,7 +785,7 @@ Einheitkreises.
 Quasistabil sind Systeme mit einfachen Polen auf dem Einheitskreis.
 ```
 
-Allgemein lässt sich sagen, dass Systeme deren z-Konvergenzgebiet den
+Allgemein lässt sich sagen, dass Systeme, deren z-Konvergenzgebiet den
 Einheitskreis mit einschließen, stabil sind. Betrachtet man noch einmal
 die Beispiele für z-Transformation und des dazugehörigen
 Konvergenzgebietes in {numref}`Abschnitt %s  <sec:definition_ztransformation>`, so wird deutlich, dass die kausale Folge
@@ -842,8 +842,10 @@ Zur Lösung nehmen wir zunächst eine Fallunterscheidung vor:
 1.   Für die komplexwertige Lösung $a_{2}>\frac{a_{1}^{2}}{4}$ ergibt
     sich durch die Nebenbedingung, dass man $\sqrt{-1} = j$ vor die
     Wurzel ziehen kann und sich somit die Vorzeichen umdrehen.
-    $z=-\frac{a_{1}}{2} \pm j \sqrt{a_{2}-\frac{a_{1}^{2}}{4}}$~~~.
-    
+    $z=-\frac{a_{1}}{2} \pm j \sqrt{a_{2}-\frac{a_{1}^{2}}{4}}$~~~. <-
+
+hier
+
 Berechnet man den Betrag so ergibt sich 
     
 $$
