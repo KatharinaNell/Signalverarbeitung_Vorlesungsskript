@@ -855,7 +855,7 @@ $$
     
 Da für ein stabiles System $\left|z\right|<1$
     gelten muss, gilt als erste Bedingung, dass auch $a^2_{2}<1$ sein
-    muss
+    muss.
 
 2.  Für die reelwertige Lösung gilt $a_{2}<\frac{a_{1}^{2}}{4}$:\
     Es ergibt sich damit die Ungleichung
