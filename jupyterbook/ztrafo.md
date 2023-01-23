@@ -63,7 +63,7 @@ y(k) = c y(k-1) + S \delta(k)~~~.
 $$ (eq:ZinsRekursionMitc)
 
 Diese Form wird jetzt auf beiden Seiten mit der Summe $\sum_{k =
--\infty}^{\infty}z^{-k}$ multipliziert. Ein Schritt der mathematisch
+-\infty}^{\infty}z^{-k}$ multipliziert. Ein Schritt, der mathematisch
 erlaubt ist, da er auf beiden Seiten des Gleichungssystems durchgeführt
 wird.
 
@@ -164,7 +164,7 @@ Summe in Gl. {eq}`eq:Def:Ztrafo2` kleiner unendlich ist. Dies ist für alle
 endlichen Folgen gegeben, wenn keiner der Folgenwerte unendlich ist. Bei
 unendlichen Folgen ist dies nicht immer gewährleistet und hängt auch
 direkt von $z$ ab. Deshalb gehört zu einer vollständigen
-Beschreibung der z-Transformation auch immer die Bereichsangabe von $z$
+Beschreibung der z-Transformation auch immer die Bereichsangabe von $z$,
 in der die Summe konvergiert. Man spricht deshalb vom sogenannten
 Konvergenzgebiet *Region of Convergence*. Zur Beschreibung des
 Konvergenzgebietes reichen die Angaben der Radien $r = |z|$ der
@@ -245,7 +245,7 @@ $$
     x(k) = -0{,}5^k \gamma(-k-1) \qquad \text{für} \qquad k < 0
 $$ 
 
-betrachtet werden (siehe {numref}`Abbildung %s <fig:zFolgenPic>` b). Berechnet man die z-Transformierte ergibt sich mit einer Variablensubstitution $k = -m$ 
+betrachtet werden (siehe {numref}`Abbildung %s <fig:zFolgenPic>` b). Berechnet man die z-Transformierte, ergibt sich mit einer Variablensubstitution $k = -m$ 
 
 $$
 \begin{aligned}
@@ -295,7 +295,7 @@ $|z| < 0{,}5$.
 ## Rechenregeln
 
 Die z-Transformation erleichtert das Rechnen von Differenzengleichungen.
-Einige häufig verwendete Rechenregeln und
+Einige, häufig verwendete Rechenregeln und
 Korrespondenzen sind im Folgenden aufgeführt.
 
 ### Linearität
@@ -326,7 +326,7 @@ $$
     x(k) = \oint_C X(z) z^{k-1} \text{d}z
 $$ (eq:zRuek:Def)
     
-gegeben. Dies bedeutet wir umlaufen
+gegeben. Dies bedeutet, wir umlaufen
 die komplexe Ebene auf dem Kreis C im mathematisch positiven Sinn
 (Gegenuhrzeigersinn) und integrieren die eingeschlossene Fläche. Dies
 ist nicht immer möglich. Ob die Möglichkeit besteht hängt direkt davon
@@ -385,7 +385,7 @@ df = pandas.DataFrame(data = {'Zeitbereich 𝑦(𝑘)':["δ(k)", "γk", "kγ(k)"
 #df = df.set_index('k')
 ```
 
-Eine Beschreibung von LTI-Systemen kann wie im letzten Abschnitt gezeigt
+Eine Beschreibung von LTI-Systemen kann, wie im letzten Abschnitt gezeigt,
 über Differenzengleichungen erfolgen. Die z-Transformation und
 Rücktransformation solcher Systeme sind besonders gut über die
 Korrespondenztabellen zu lösen.
@@ -434,7 +434,7 @@ $$
 $$ (eq:eaxample3:zLoesung2)
 
 
-Teilt man diese Lösung durch $X(z)$ ergibt sich auf der rechten Seite
+Teilt man diese Lösung durch $X(z)$, ergibt sich auf der rechten Seite
 der Gleichung der Anteil, der unabhängig vom Eingangssignal ist und nur
 das System repräsentiert. Der Bruch $Y(z)/X(z)$ wird zusätzlich durch
 mit $H(z)$ abgekürzt. 
@@ -484,7 +484,7 @@ $$
 $$ (eq:zTrafo:FaltungMulti)
 
 Damit haben wir eine Möglichkeit
-gefunden die eher aufwendige Faltungsumme mit Hilfe der z-Transformation
+gefunden, die eher aufwendige Faltungsumme mit Hilfe der z-Transformation
 in eine einfache Multiplikation im z-Bereich zu überführen. Das
 Ausgangssignal erhält man abschließend durch die inverse
 z-Transformation des Ausgangssignals $Y(z)$. Dieser Lösungsweg ist in
@@ -844,7 +844,7 @@ Zur Lösung nehmen wir zunächst eine Fallunterscheidung vor:
     Wurzel ziehen kann und sich somit die Vorzeichen umdrehen.
     $z=-\frac{a_{1}}{2} \pm j \sqrt{a_{2}-\frac{a_{1}^{2}}{4}}$~~~.
     
-Berechnet man den Betrag so ergibt sich 
+Berechnet man den Betrag, so ergibt sich 
     
 $$
     \begin{aligned}
