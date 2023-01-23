@@ -678,10 +678,10 @@ aufklingende, also mit der Zeit stärker werdende Schwingung.
 Dies ist in der {numref}`Abbildung %s <fig:PolLagen>` nochmals verdeutlicht. Die Pollage a) ist
 ein Pol auf der reellen Achse mit einem Radius von $r = 0{,}96$ (die eingezeichneten Pollagen sind zur Verdeutlichung skaliert). Die
 dazugehörige Schwingung ist eine abklingende Exponentialfunktion ohne
-Schwingungsanteil. Ist der Radius größer eins (b) $r= 1{,}01$) ergibt sich
+Schwingungsanteil. Ist der Radius größer eins (b) $r= 1{,}01$, ergibt sich
 eine aufklingende Exponentialfunktion. Verschiebt man den Pol auf dem
 Radius $r=0{,}96$ auf einen Polwinkel $\varphi = \pi/10$, so ergibt sich eine
-exponentiell abklingende Schwingung (siehe c)). Bei einem Radius größer
+exponentiell abklingende Schwingung (siehe c). Bei einem Radius größer
 eins, eine aufklingende Schwingung (d). Die Drehung ist bei
 $\varphi = 3\pi / 4$ kaum noch zu erkennen (e), während die Frequenz
 $\varphi = \pi$ erneut zu einer reellen Folge mit wechselndem
