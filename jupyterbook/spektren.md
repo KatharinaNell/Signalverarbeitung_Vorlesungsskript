@@ -303,7 +303,7 @@ $N = 16$.
 +++
 
 Das resultierende Spektrum ist aber immer noch kontinuierlich. Durch die
-periodische Wiederholung des Spektrums ist es aber ausreichend nur den
+periodische Wiederholung des Spektrums ist es aber ausreichend, nur den
 Bereich von $0 \leq \omega\leq 2\pi$ genauer zu betrachten. Um
 eine diskretes Spektrum zu erhalten, unterteilen wir das Spektrum in $N$
 gleichförmige Abschnitte (es kann eine beliebige Anzahl verwendet werden, eine Zweierpotenz führt aber zu besonders effizienten Lösungen).
