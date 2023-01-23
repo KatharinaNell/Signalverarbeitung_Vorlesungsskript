@@ -948,6 +948,8 @@ Zeitliche und spektrale Eigenschaft des
 ````
 `````
 
+Achsenbeschriftungen
+
 +++ {"tags": ["remove-cell"]}
 
 ```{admonition} To Do
