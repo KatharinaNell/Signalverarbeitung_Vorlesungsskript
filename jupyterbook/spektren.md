@@ -97,7 +97,7 @@ $$
     H(e^{j \Omega}) = \sum_{k = -\infty}^{\infty} h(k) e^{-j\Omega k}
 $$ (eq:DTFD:Hin)
     
-berechnet. Dies entspricht einer Fourier-Transformation der nur zu diskreten Punkten definierten Impulsantwort. Allgemein kann jedes beliebige diskrete Signal so in den Frequenzbereich transformiert werden. Die dazugehörige Transformation wird Zeitdiskrete Fourier-Transformation (*Discrete Time Fourier-Transformation, DTFT*) genannt.
+berechnet. Dies entspricht einer Fourier-Transformation, der nur zu diskreten Punkten definierten Impulsantwort. Allgemein kann jedes beliebige diskrete Signal so in den Frequenzbereich transformiert werden. Die dazugehörige Transformation wird Zeitdiskrete Fourier-Transformation (*Discrete Time Fourier-Transformation, DTFT*) genannt.
 
 Vergleichen wir nun Gleichung
 {eq}`eq:DTFD:Hin` mit der Definition der z-Transformation, so
