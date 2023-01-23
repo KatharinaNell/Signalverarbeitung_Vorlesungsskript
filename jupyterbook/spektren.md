@@ -299,7 +299,7 @@ Veranschaulichung der Wirkung einer
 Rechteck-Fensterfunktion der Länge
 $N = 16$.
 ```
-
+Bildunterschriften?
 +++
 
 Das resultierende Spektrum ist aber immer noch kontinuierlich. Durch die
