@@ -642,7 +642,7 @@ beiden Folgen (Bild a,b) ergeben bei konventioneller Faltung Bild c.
 Bild d zeigt das Resultat für die direkte Faltung im Frequenzbereich mit
 Hilfe der DFT.
 ```
-
+Achsenbeschriftung
 +++
 
 Um die zyklischen Faltungsprodukte zu verhindern ist es notwendig Nullen
