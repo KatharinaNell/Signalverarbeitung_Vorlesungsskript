@@ -812,8 +812,8 @@ mit der Fensterfunktion genannt. Die Ursache im Zeitbereich hierfür war
 das abrupte Abschneiden, dass durch die angenommene zirkulare
 Wiederholung zu einem nicht-repräsentativen Ausschnitt führte. Deshalb
 ist eine Design-Idee für andere Fenster eine möglichst weiche
-Ausblendung zu den Rändern zu ermöglichen. Fenster die diese Eigenschaft
-besitzen können zum Beispiel durch Cosinusfunktionen realisiert werden.
+Ausblendung zu den Rändern zu ermöglichen. Fenster, die diese Eigenschaft
+besitzen, können zum Beispiel durch Cosinusfunktionen realisiert werden.
 
 Eine generalisierte Version ergibt sich dabei zu
 
