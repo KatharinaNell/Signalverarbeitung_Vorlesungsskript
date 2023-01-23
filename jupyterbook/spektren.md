@@ -674,6 +674,7 @@ $$
     \sum_{k = -\infty}^{\infty} x^2(k) = \frac{1}{2\pi} \int_{-\pi}^{\pi} \left|X(e^(j \Omega)) \right|^2 \text{d}\Omega~~~, 
 $$ (eq:ParsevalDTFT)
 
+Klammersetzung falsch
 bzw. für die DFT 
 
 $$
