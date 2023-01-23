@@ -732,7 +732,7 @@ dieses Problem ist durch die Periodizität der DFT aber sehr einfach zu
 umgehen, da sich das Spektrum immer wiederholt.
 
 Aber warum stellt es einen Vorteil dar, wenn man die DFT so zerlegen
-kann? Um eine diskrete Frequenz zu berechnen sind $N$ komplexe
+kann? Um eine diskrete Frequenz zu berechnen, sind $N$ komplexe
 Multiplikationen nötig. Dieser Schritt muss für alle diskreten Frequenzen
 durchgeführt werden. Die Berechnung des vollständigen Spektrums benötigt
 also $N^2$ Multiplikationen. Teilen wir die Aufgabe in zwei Teilspektren
