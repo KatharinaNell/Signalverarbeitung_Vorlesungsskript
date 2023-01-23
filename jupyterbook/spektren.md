@@ -895,7 +895,7 @@ Zeitliche und spektrale Eigenschaft des Blackman-Fensters
 
 ````{tab-item} Dolph-Tschebyscheff 
 -   **Dolph-Tschebyscheff-Fenster:** Im Gegensatz zu den anderen Fenstern
-    in dasDolph-Tschebyscheff-Fenster parametrisierbar. Bei einer
+    in das Dolph-Tschebyscheff-Fenster parametrisierbar. Bei einer
     vorgegebenen Fensterlänge $N$ kann die Absenkung der Nebenzipfel
     angegeben werden. Dieser Wert wird für alle Nebenzipfel gleichmäßig
     erreicht. Die Breite der Hauptkeule wird gleichzeitig optimal klein
