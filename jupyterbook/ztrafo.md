@@ -63,7 +63,7 @@ y(k) = c y(k-1) + S \delta(k)~~~.
 $$ (eq:ZinsRekursionMitc)
 
 Diese Form wird jetzt auf beiden Seiten mit der Summe $\sum_{k =
--\infty}^{\infty}z^{-k}$ multipliziert. Ein Schritt der mathematisch
+-\infty}^{\infty}z^{-k}$ multipliziert. Ein Schritt, der mathematisch
 erlaubt ist, da er auf beiden Seiten des Gleichungssystems durchgeführt
 wird.
 
