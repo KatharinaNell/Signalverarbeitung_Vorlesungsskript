@@ -909,7 +909,7 @@ Zeitliche und spektrale Eigenschaft des
 ```
 ````
 
-````{tab-item} Kaiser-Fester
+````{tab-item} Kaiser-Fenster
 -   **Kaiser-Fenster:** Auch das Kaiser-Fenster ist mit Hilfe des
     Parameters $\alpha$ veränderlich. Es basiert auf der Form
     
