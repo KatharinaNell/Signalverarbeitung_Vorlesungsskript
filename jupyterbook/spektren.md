@@ -645,7 +645,7 @@ Hilfe der DFT.
 
 +++
 
-Um die zyklischen Faltungsprodukte zu verhindern ist es notwendig Nullen
+Um die zyklischen Faltungsprodukte zu verhindern, ist es notwendig Nullen
 an die zu transformierenden Folgen anzuhängen (*Zero-Padding*) und eine
 entsprechend größere Transformationslänge zu wählen. Dies führt dazu,
 dass die implizite Periodizität die Nullen einschließt. Die Nullen
