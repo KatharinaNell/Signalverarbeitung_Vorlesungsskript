@@ -751,7 +751,7 @@ ergibt sich eine im rechenaufwand stark reduzierte DFT, die als
 
 ### Spektrum für $\delta(k)$
 
-Berechnet man die DTFT für den $\delta$-Impuls ergibt sich
+Berechnet man die DTFT für den $\delta$-Impuls, ergibt sich
 
 $$
     X(e^{j \Omega}) = \sum_{k = -\infty}^{\infty} \delta(k)e^{-jk \Omega} =e^{-j0 \Omega} = 1~~~,
