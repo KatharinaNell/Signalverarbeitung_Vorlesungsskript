@@ -475,7 +475,7 @@ abgetasteten Cosinus (links), der auf $N = $16 Werte begrenzt wird
 
 +++
 
-Um nun das DFT-Spektrum zu berechnen ist zusätzlich die Abtastung im
+Um nun das DFT-Spektrum zu berechnen, ist zusätzlich die Abtastung im
 Frequenzbereich notwendig. Dies hat implizit zur Folge, dass die
 Cosinusfolge periodisch wiederholt wird. Das abgetastete Spektrum ist
 auf der unteren linken Seite in Abbildung
