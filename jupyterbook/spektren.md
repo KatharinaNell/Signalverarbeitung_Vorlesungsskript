@@ -107,7 +107,7 @@ Es kann also direkt am Einheitskreis das frequenzabhängige
 Übertragungsverhalten von Systemen abgelesen werden. Dies gilt analog natürlich
 auch für Signale.
 
-Ist also die z-Transformation eines Systems bekannt kann auch sofort die Übertragungsfunktion 
+Ist also die z-Transformation eines Systems bekannt, kann auch sofort die Übertragungsfunktion 
 angeben werden. Beispielsweise ergibt sich 
 für das System $y(k) = x(k) + x(k-1)$ mit $e^{j\Omega}$ in die
 z-Transformierte eingesetzt 
