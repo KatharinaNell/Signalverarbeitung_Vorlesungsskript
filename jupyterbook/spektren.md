@@ -367,7 +367,7 @@ gilt aber auch. Eine Multiplikation im Zeitbereich, und damit die Nutzung des Fe
 
 $$
     H(e^{j \Omega}) \Big|_{0 \leq n \leq N} = \int_{\theta = -\pi}^{\pi} H
-    (e^{j\theta}) H^{W}(e^{j(\Omega - \theta)})\text{d}\theta
+    (e^{j\theta}) H^{W}(e^{j(\Omega - \theta)})\text{d}\theta Komma
 $$ (eq:SpektrumBegrenzterFolgen)
 
 wobei $H^{W}$ die Übertragungsfunktion der Fensterfunktion ist.
