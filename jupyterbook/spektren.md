@@ -38,11 +38,11 @@ Das Motivationsbeispiel in einer konkreten Realisierung wäre schön.
 
 Das Verhalten bei einer bestimmten Frequenz lässt sich z.B. testen,
 indem das LTI-System mit Signalen angeregt wird, die nur aus einer Frequenz bestehen und dann die Veränderung am Ausgang des Systems zu messen. Ein sehr gutes
-Eingangssignal um Betrag und Phase zu bestimmen ist die ungedämpfte
+Eingangssignal, um Betrag und Phase zu bestimmen, ist die ungedämpfte
 diskrete Exponentialschwingung 
 
 $$
-    e^{j\Omega_0 k} = \cos(\Omega k)+j\sin(\Omega k)~~~,
+    e^{j\Omega_0 k} = \cos(\Omega k)+j\sin(\Omega k)~~~
 $$ (eq:Def:Euler_spektren)
 
 mit $\Omega_0 = 2 \pi f_0/ f_\text{s}$, wobei $f_0$ die Analysefrequenz und $f_\text{s}$
@@ -50,7 +50,7 @@ die Samplingfrequenz angibt.
 
 ```{admonition} Exkurs: Frequenzachsen in der DSV
 :class: hint
-Manchmal ist es verwirrend in
+Manchmal ist es verwirrend, in
 welcher Form Frequenzen in der digitalen Signalverarbeitung angegeben
 werden. Die am häufigsten verwendeten Systeme und ihre Äquivalenz als
 Achse und ihre Position auf dem Einheitskreis in der z-Ebene zeigt
