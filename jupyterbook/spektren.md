@@ -234,7 +234,7 @@ Phase muss noch deutlich besser erklärt werden und die folgenden Interpretation
 
 Eine Interpretation (die Nutzung vom FilterDeMystifier hilft hier sehr, siehe {numref}`Abschnitt %s  <sec:interactive_ztransform>`) führt zu den Schlüssen:
 
--   Je näher ein Pol am Einheitkreis liegt umso größer ist sein Einfluss
+-   Je näher ein Pol am Einheitkreis liegt, umso größer ist sein Einfluss
     auf die Übertragungsfunktion.
 
 -   Eine Nullstelle auf dem Einheitskreis führt zu einem Phasensprung um
@@ -246,14 +246,14 @@ Eine Interpretation (die Nutzung vom FilterDeMystifier hilft hier sehr, siehe {n
 -   Pole oder Nullstellen im Ursprung verändern nur die Phase, aber
     nicht den Betrag der Übertragungsfunktion.
 
--   Nullstellen die am Einheitskreis gespiegelt werden
+-   Nullstellen, die am Einheitskreis gespiegelt werden
     ($r_\text{out} = 1/r_\text{in}$), führen nur zu einer Veränderung der
     Grundverstärkung des Betrages der Übertragungsfunktion aber nicht zu
     einer Veränderung der Form. Gleichzeitig wird aber die Phase so
     verändert, dass sie um über $180^{\circ}$ dreht und das
     resultierende System nicht mehr minimalphasig ist.
 
--   Systeme bei denen die Nullstellen an den Positionen der am
+-   Systeme, bei denen die Nullstellen an den Positionen der am
     Einheitskreis gespiegelten Pole liegen
     
     $$
