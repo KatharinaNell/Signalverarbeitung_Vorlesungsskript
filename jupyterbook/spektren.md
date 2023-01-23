@@ -159,7 +159,7 @@ $$ (Eq:Spek:PeridozitaetsERklaerung)
 zu sehen.
 
 Eine direkte Berechnung des Betrag- und Phasenganges aus den Polen und
-Nullstellen ist ebenfalls möglich. Um das zu veranschaulichen ist in
+Nullstellen ist ebenfalls möglich. Um das zu veranschaulichen, ist in
 {numref}`Abbildung %s <fig:UebertragPolNullstellen>`  ein System zweiter Ordnung mit zwei Polen und zwei Nullstellen in der
 z-Ebene  gezeigt.
 
