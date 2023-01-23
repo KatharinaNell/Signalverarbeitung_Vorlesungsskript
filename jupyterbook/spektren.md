@@ -341,7 +341,7 @@ abgetastet. Die Konsequenz der Abtastung kennen wir bereits aus der
 normalen Abtastung im Zeitbereich. Es kommt zu einer periodischen
 Wiederholung des Spektrums. Die Abtastung im Frequenzbereich führt zu
 einer periodischen Wiederholung im Zeitbereich. Wenn man also ein Signal
-analysiert und zurück transformiert ergibt sich eine periodische
+analysiert und zurück transformiert, ergibt sich eine periodische
 Wiederholung. Auch hier gibt es eine andere Interpretationsmöglichkeit.
 Bei der Analyse von periodischen Signalen mittels Fourier-Reihen ergeben
 sich diskrete Spektren. Ein diskretes Spektrum führt im Umkehrschluss
