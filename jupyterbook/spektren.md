@@ -38,7 +38,7 @@ Das Motivationsbeispiel in einer konkreten Realisierung wäre schön.
 
 Das Verhalten bei einer bestimmten Frequenz lässt sich z.B. testen,
 indem das LTI-System mit Signalen angeregt wird, die nur aus einer Frequenz bestehen und dann die Veränderung am Ausgang des Systems zu messen. Ein sehr gutes
-Eingangssignal um Betrag und Phase zu bestimmen ist die ungedämpfte
+Eingangssignal, um Betrag und Phase zu bestimmen, ist die ungedämpfte
 diskrete Exponentialschwingung 
 
 $$
