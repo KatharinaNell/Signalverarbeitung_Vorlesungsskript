@@ -378,7 +378,7 @@ $$
 H^{W}(z) = \sum_{k = -\infty}^{\infty} w(k) z^{-k} = \sum_{k = 0}^{N-1} z^{-k}~~~.
 $$
 
-Durch einsetzen von $z = e^{j\Omega}$ ergibt sich das Spektrum
+Durch Einsetzen von $z = e^{j\Omega}$ ergibt sich das Spektrum
 
 $$
 H^{W}(z)\Big|_{z = e^{j\Omega}} = \sum_{k = 0}^{N-1} e^{-j\Omega k}~~.
