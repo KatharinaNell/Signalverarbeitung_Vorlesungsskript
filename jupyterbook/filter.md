@@ -568,7 +568,7 @@ linearer Phase handelt. Diese Eigenschaft beruht drauf, dass die
 Nullstellen dieses FIR-Systems nur auf dem Einheitskreis liegen.
 Zusätzlich sind aber auch alle Systeme linearphasig die am Einheitskreis
 gespiegelte Nullstellen aufweisen. Es muss also gelten, dass zu jeder
-Nullstelle $z_i$ die nicht auf dem Einheitskreis liegt eine weitere
+Nullstelle $z_i$, die nicht auf dem Einheitskreis liegt, eine weitere
 Nullstelle mit $z_{\ell} = 1/z_i$ existiert.
 
 Diese Symmetrie in der Pol-Nullstellenebene führt zu bestimmten
