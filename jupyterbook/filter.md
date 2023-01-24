@@ -609,7 +609,7 @@ Entwurfsvorgaben zusammen passen.
 Eine weitere besondere Klasse an FIR-Filtern sind sogenannte
 minimalphasige Filter. Das heisst, dieses Filter realisiert eine
 bestimmte Betragsübertragungsfunktion mit der minimalen Phase.  
-Es zeigt sich dass sich dieser Filtertyp genau dann ergibt, wenn alle Nullstellen
+Es zeigt sich, dass sich dieser Filtertyp genau dann ergibt, wenn alle Nullstellen
 innerhalb des Einheitskreises liegen. Eine Realisierung ist also
 über ein Berechnen aller Nullstellen und deren Spiegelung am
 Einheitskreis möglich, da sich so nur die Phase aber nicht das
@@ -637,7 +637,7 @@ Zeitbereichslösung wird nun so verändert, dass alle negativen Zeiten
 der DFT ist das gleichwertig) zu Null gesetzt und alle anderen
 Werte mit zwei multipliziert werden. Diese neue Funktion wird nun mit
 der FFT erneut in den Frequenzbereich transformiert. Um die
-Logarithmierung rückgängig zu machen wird für jeden Frequenzpunkt die
+Logarithmierung rückgängig zu machen, wird für jeden Frequenzpunkt die
 Exponenten-Funktion angewendet. Eine erneute IFFT der resultierenden
 Funktion führt auf die Filterkoeffizienten, die das minimalphasige
 Filter repräsentieren. {numref}`Abbildung %s <fig:MinPhasenBsp>`  zeigt die Ergebnisse für einen
