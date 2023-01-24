@@ -277,7 +277,7 @@ Realisierungsformen von Filtern.
 ### FIR-Filter
 
 Die Anwendung von FIR-Filtern ist ausschließlich durch digitale
-Signalverarbeitung möglich, da eine Realisierung in Analogtechnk mit
+Signalverarbeitung möglich, da eine Realisierung in Analogtechnik mit
 elektrischen Bauelementen nicht möglich ist. FIR-Filter zeichnen sich
 durch einige positive Eigenschaften aus. In erster Linie kann die
 Stabilität immer garantiert werden. Alle FIR-Filter sind stabil.
