@@ -380,13 +380,13 @@ im weiteren genauer erläutert werden.
 Aus dem Abschnitt über Spektren ist uns bekannt, dass wir zu einer
 Zeitfolge mit Hilfe der DTFT ein Spektrum berechnen können, dass in
 $2\pi$ periodisch ist. Zu dieser Hintransformation gibt es auch die
-korrespondierende Rücktransformation die als 
+korrespondierende Rücktransformation, die als 
 
 $$
     x(k) = \frac{1}{2\pi}\int_{-\pi}^{\pi} X(e^{j \Omega}) e^{j\Omega k} \text{d}\Omega
 $$ (FIR:IDTFT:Def)
     
-definiert ist. Somit ist es natürlich auch möglich zu einem bestimmten
+definiert ist. Somit ist es natürlich auch möglich, zu einem bestimmten
 Frequenzentwurf eine zugehörige Zeitfolge zu berechnen. Nehmen wir
 beispielsweise an, wir suchen die Koeffizienten, um ein ideales
 Tiefpassfilter mit der Grenzfrequenz $\Omega_\text{g}$ zu realisieren. Die
@@ -396,7 +396,7 @@ $$
     H(e^{j \Omega}) = \Bigg\{ \begin{array}{lcc}
 1 & für & -\Omega_\text{g} \leq \Omega \leq  \Omega_\text{g}\\
 0 & & \Omega_\text{g} < |\Omega| \leq \pi
-\end{array}
+\end{array} Punkt
 $$ (FIR:BSP:Tiefpass)
 
 Für die gesuchten Filterkoeffizienten ergibt sich
@@ -405,7 +405,7 @@ $$
 \begin{aligned}
     h(k) & = &\frac{1}{2\pi}\int_{-\pi}^{\pi} H(e^{j \Omega}) e^{j\Omega k} \text{d}\Omega\\
          & = &\frac{1}{2\pi}\int_{-\Omega_\text{g}}^{\Omega_\text{g}}e^{j\Omega k} \text{d}\Omega\\
-         & = &\frac{\Omega_\text{g}}{\pi} \frac{\sin(\Omega_\text{g} k)}{\Omega_\text{g} k}\end{aligned}
+         & = &\frac{\Omega_\text{g}}{\pi} \frac{\sin(\Omega_\text{g} k)}{\Omega_\text{g} k}\end{aligned} Punkt
 $$ (FIR:TP:Ideal)
 
 Problematisch an diesem Ergebnis ist zum einen, dass sich die gefundene
