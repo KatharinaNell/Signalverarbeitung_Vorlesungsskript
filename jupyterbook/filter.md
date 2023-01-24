@@ -1324,7 +1324,7 @@ führt. Dieses Verhalten im Sperrbereich wird auch vom
 Tschebyscheff-I-Filter im Sperrbereich erreicht, wobei trotz der
 geringeren Ordnung ein zunächst steilerer Übergang an der Grenzfrequenz
 erreicht wird. Beim Tschebyscheff-II-Filter im Durchlassbereich wird
-deutlich, dass die Spezifikation übererfüllt wird. Die Grenzfrequenz bei
+deutlich, dass die Spezifikation übererfüllt wird. Die Grenzfrequenz, bei
 der der Übergang beginnt, ist verschoben, da beim
 Tschebyscheff-II-Design in erster Linie der Sperrbereich erfüllt werden
 soll.
