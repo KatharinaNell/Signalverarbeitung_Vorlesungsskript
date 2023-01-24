@@ -1157,7 +1157,7 @@ eine Anpassung an diese Frequenz vorgenommen.
 
 Beispiel einer Filterspezifikation für normierte Frequenzen:\
 Durchlassbereich bis $0.1\pi$ und maximale Dämpfung von $0.2$dB.\
-Sperrbereich ab $02\pi$ und minimale Dämpfung von $30dB$.\
+Sperrbereich ab $02\pi$ und minimale Dämpfung von $30$dB$.\
 Der dazugehörige Code sieht dann wie folgt aus:
 
 `````{tab-set}
