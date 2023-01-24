@@ -61,7 +61,7 @@ zwischen vier Grundtypen unterschieden:
 
 `````{tab-set}
 ````{tab-item} Tiefpass
-   **Tiefpass:** Ziel des Tiefpasses ist es alle hohen Frequenzen ab
+   **Tiefpass:** Ziel des Tiefpasses ist es, alle hohen Frequenzen ab
     einer zu definierenden Grenzfrequenz $f_\text{g}$ aus dem Spektrum zu
     entfernen. In der technischen Umsetzung ist es aber nicht möglich,
     einen abrupten Übergang zwischen dem sog. Durchlassbereich (tiefe
