@@ -130,7 +130,7 @@ Optimaler
 
 +++
 
-Eine weitere Gruppe von Filtern hat das Ziel, Signale die durch eine
+Eine weitere Gruppe von Filtern hat das Ziel, Signale, die durch eine
 Übertragung verändert wurden, wieder in ihre ursprüngliche Form zurück
 zu bringen. Das Ziel ist also, ein verändertes Spektrum zu begradigen,
 bzw. auszugleichen. Aus dieser Aufgabe folgt auch die verwendete
@@ -138,7 +138,7 @@ englische Typbezeichnung Equalizer. In der Tonstudiotechnik werden diese
 Filter zwar nicht nur zu diesem Zweck verwendet, aber auch dort werden
 die Klangformungsfilter als Equalizer bezeichnet. Equalizer ist ein sehr
 allgemeiner Begriff und kann Filter beinhalten, die eine vollständige
-Vorgabe der Übertragungsfunktion versuchen zu realisieren. Zum Beispiel
+Vorgabe der Übertragungsfunktion versuchen zu realisieren, z.B.
 bei der Hörgeräteanpassung, die eine vollständige Beschreibung des
 Hörverlustes als Ausgangsbasis verwendet. Oder aber es werden nur
 bestimmte Bereiche verändert. Zu dieser letzten Gruppe gehören die
