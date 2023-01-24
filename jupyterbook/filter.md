@@ -291,7 +291,7 @@ Filter werden deshalb linearphasig genannt.
 
 Bisher haben wir FIR-Systeme nur als Differenzengleichung oder als
 z-Übertragungsfunktion kennen gelernt. Um die noch folgende
-Implementierung zu ermöglichen ist eine andere Darstellung aber
+Implementierung zu ermöglichen, ist eine andere Darstellung aber
 hilfreicher. Schaut man sich die Differenzengleichung für ein FIR-Filter
 genauer an, so erkennt man, dass man 3 verschiedene Bauteile benötigt werden:
 
