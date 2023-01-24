@@ -281,7 +281,7 @@ Signalverarbeitung möglich, da eine Realisierung in Analogtechnk mit
 elektrischen Bauelementen nicht möglich ist. FIR-Filter zeichnen sich
 durch einige positive Eigenschaften aus. In erster Linie kann die
 Stabilität immer garantiert werden. Alle FIR-Filter sind stabil.
-Weiterhin ist es möglich mit FIR-Systemem Filter zu realisieren, die nur
+Weiterhin ist es möglich, mit FIR-Systemem Filter zu realisieren, die nur
 den Betragsfrequenzgang verändern und sonst nur eine zeitliche
 Verzögerung des Signals bewirken. Die zeitliche Verzögerung macht sich
 in der Übertragungsfunktion durch eine lineare Phase deutlich. Diese
