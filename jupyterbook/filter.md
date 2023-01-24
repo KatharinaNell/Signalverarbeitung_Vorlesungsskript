@@ -440,7 +440,7 @@ bezeichnet.
 Veranschaulichung des
 Gibbs'schen Phänomens am Beispiel eines Tiefpassfilters.
 ```
-
+Achenbeschriftung 
 +++
 
 Die Ursache hierfür ist in der Übertragungsfunktion des Rechteckfensters
