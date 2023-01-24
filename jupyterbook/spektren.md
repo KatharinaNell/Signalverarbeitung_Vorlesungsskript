@@ -50,7 +50,7 @@ die Samplingfrequenz angibt.
 
 ```{admonition} Exkurs: Frequenzachsen in der DSV
 :class: hint
-Manchmal ist es verwirrend in
+Manchmal ist es verwirrend, in
 welcher Form Frequenzen in der digitalen Signalverarbeitung angegeben
 werden. Die am häufigsten verwendeten Systeme und ihre Äquivalenz als
 Achse und ihre Position auf dem Einheitskreis in der z-Ebene zeigt
