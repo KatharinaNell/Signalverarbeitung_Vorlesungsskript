@@ -1143,13 +1143,13 @@ ihre Stärken und Schwächen gezeigt werden.
 Ziel des Butterworth-Entwurfs ist einen möglichst flachen
 Durchlassbereich zu erhalten. Dies wird im analogen Entwurf durch
 Nutzung einer Potenzfunktion gewährleistet (siehe Abschnitt
-Analogentwurf) Aus diesem Grund wird dieser Entwurf auch als *Maximum
+Analogentwurf). Aus diesem Grund wird dieser Entwurf auch als *Maximum
 Flat Design* bezeichnet. In Matlab stehen die Befehle `butter` und
 `buttord` für das Design zu Verfügung, wobei mit buttord zu einem
 definierten Design die benötigten Entwurfsparameter bestimmt werden und
 butter der eigentliche Entwurf ist. Angegeben werden meist zwei
 Arbeitspunkte des Filters, zum einen bis zu welcher Frequenz der
-Durchlassbereich definiert ist und welche Abstand von der 0dB Linie noch
+Durchlassbereich definiert ist und welche Abstand von der $0$dB Linie noch
 als Durchlass gilt. Zum anderen ab welcher Frequenz eine bestimmte
 Dämpfung erreicht werden muss (Sperrbereich). Da die Grenzfrequenz des
 Butterworth-Filter durch die $-3$dB Grenze definiert, wird in Butterord
@@ -1157,7 +1157,7 @@ eine Anpassung an diese Frequenz vorgenommen.
 
 Beispiel einer Filterspezifikation für normierte Frequenzen:\
 Durchlassbereich bis $0.1\pi$ und maximale Dämpfung von $0.2$dB.\
-Sperrbereich ab $02\pi$ und minimale Dämpfung von $30dB$.\
+Sperrbereich ab $0.2\pi$ und minimale Dämpfung von $30dB$.\
 Der dazugehörige Code sieht dann wie folgt aus:
 
 `````{tab-set}
