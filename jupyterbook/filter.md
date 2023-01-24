@@ -98,7 +98,7 @@ Optimaler
     Bandpassfilter zwei Grenzfrequenzen $f_1$ und $f_2$. Das
     Designziel ist, nur die Frequenzen zwischen $f_1$ und $f_2$
     durchzulassen und alle Frequenzen unterhalb von $f_1$ bzw. oberhalb
-    von $f_2$ zu entfernen. Die Differenz zwischen $f1$ und $f_2$ wird
+    von $f_2$ zu entfernen. Die Differenz zwischen $f_1$ und $f_2$ wird
     Bandbreite $B = f_2 -
         f_1$ genannt.    
 
