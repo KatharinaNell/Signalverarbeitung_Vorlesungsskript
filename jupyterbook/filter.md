@@ -1291,7 +1291,7 @@ folgt aus.
 #### Vor- und Nachteile der unterschiedlichen Entwurfsverfahren
 
 Die Wahl der Entwurfsmethode beruht im großen Maße auf den gegebenen
-Randparamtern. Um eine geeignete Wahl zu treffen ist es aber notwendig
+Randparamtern. Um eine geeignete Wahl zu treffen, ist es aber notwendig
 die Stärken und Schwächen der einzelnen Verfahren zu beleuchten. Aus den
 vorherigen Abschnitten ist bereits ersichtlich, dass die Ordnung der
 Filter und somit die Anzahl der benötigten Filterkoeffizienten vom
@@ -1301,7 +1301,7 @@ auskommt. Gleichzeitig sind die resultierenden Koeffizienten auch für
 eine SOS-Lösung numerisch am fragilsten und benötigen eine hohe
 Quantisierung.
 
-Um die weiteren Vor- und Nachteile zu verdeutlichen sind in {numref}`Abbildung %s <fig:IIRDesign>`  die verschiedenen Entwurfsverfahren am
+Um die weiteren Vor- und Nachteile zu verdeutlichen, sind in {numref}`Abbildung %s <fig:IIRDesign>`  die verschiedenen Entwurfsverfahren am
 oben verwendeten Beispiel gezeigt.
 
 ```{code-cell} ipython3
