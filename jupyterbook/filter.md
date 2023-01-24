@@ -453,7 +453,7 @@ zeigen, dass die Approximation im Sinne des kleinsten
 Fehlerquadrates *Minimum Mean Square Error (MMSE)* über alle Frequenzen
 optimal ist {cite}`KK98`.
 
-Um die nicht-kausalen Anteile zu beseitigen ist zusätzlich noch eine
+Um die nicht-kausalen Anteile zu beseitigen, ist zusätzlich noch eine
 zeitliche Verschiebung der gefundenen Filterkoeffizienten notwendig.
 Diese Verschiebung führt dann, wie man durch den Verschiebungssatz der
 Fourier-Transformation sieht, zu einer linearen Phase des entworfenen
